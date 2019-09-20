@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-     <title> Db Create</title>
+     <title> HW1 </title>
      <link rel="stylesheet" type="text/css" href="style.css" />
  </head>
 <body>
